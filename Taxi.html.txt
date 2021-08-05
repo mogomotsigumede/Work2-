@@ -1,0 +1,47 @@
+<HTML>
+<script> <a> </script>
+<style> 
+<style>
+  body {
+    background-color: white;
+  }
+  header {
+    background-color: black;
+    color: white;
+    padding: 0.25em;
+  }
+  h2 {
+    color: black;
+  }
+  button {
+    background-color: white;
+  }
+  footer {
+    background-color: black;
+    color: white;
+    padding: 0.5em;
+  }
+</style>
+<h2> TAXI </h2>
+<br><hr>
+<p1> The latest from the toyota manaufatures have made us use their favourite huge vehicle that was made here in South Africa in Johanessburg by the people. It has  the ability to make so many people happy as it carries about 15 passenger the drive and the 
+frist seat passenger all at the speed 100km/h. commonly known as TOYOTA QUANTUM Sesfikile.  The best thing about the company is that it has so much ideas that the world can't wait to see hence forth it may be the solution to being at the top of the game. Sesfikile is made to many purposes that can improve the life of other people or in the Physics world it will be slowling down the people's metabolic rate of consuming. </p1>
+<hr>
+<img src = "https://static.ccs.co.za/dws/images/b590dde8a75578447d6f51e12d23a43d4088eed1.jpg"/>
+<br>
+<header>
+  <h1>Toyota Taxi </h1>
+</header>
+<main>
+  <article>
+ e <code>fetch Pringles</code>.</p>
+    <button>Sign Up</button>
+  </article>
+  <article>
+    <h2>Toyota </h2>
+    <p>This week-long retreat will level-up your coding ninja skills to actual ninja skills. No longer is the humble bisection search limited to sorted arrays or coding interview questions, applying its concepts in the kitchen will have you chopping carrots in O(log n) time before you know it.</p>
+    <button>Sign Up</button>
+  </article>
+</main>
+<br>
+<footer>&copy; Property of  TOYOTA Manufatures + Property of Bill Gates & Larry Page.</footer>
