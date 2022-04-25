@@ -13,17 +13,13 @@ South Africa my Home.
 
 # Location:
 - Mohlakeng
-
 # Price:
-+ Nathan
-
-Price:
 * R 11.50 for the CDs and USB
 
-Airtime: Update
+# Airtime: Update
 * R10.00 for browsering into the platforms below.
 
-Sim-cards:
+# Sim-cards:
 * Vodacom
 * MTN
 * Telkom
