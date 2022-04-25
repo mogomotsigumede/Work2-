@@ -32,10 +32,10 @@ to believe in Visual Studio just to make it even for creative in the work place 
 * Smartphones
 
 # Features: 
-* Music - Tracks,
-* Artist,
-* History,
-* Interviews. 
+* Office Chair 
+* Office Desk
+* Telephone 
+* Office Camera
 
 # Requirements: 
 * Windows 10 
@@ -57,7 +57,4 @@ to believe in Visual Studio just to make it even for creative in the work place 
 
 # Terms and Conditions: 
 Please support the release. 
-
-# Source:
-https://html.com/
 
