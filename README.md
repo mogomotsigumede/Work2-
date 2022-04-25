@@ -14,7 +14,7 @@ South Africa my Home.
 # Location:
 - Mohlakeng
 # Price:
-* R 11.50 for the CDs and USB
+* R 34.50 for the USB
 
 # Airtime: Update
 * R10.00 for browsering into the platforms below.
