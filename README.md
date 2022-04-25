@@ -25,6 +25,39 @@ to believe in Visual Studio just to make it even for creative in the work place 
 * Telkom
 * Cell C
 
+# Contract Rates:
+* Varies amounts of them that you'll get. 
+
+# Phone 
+* Smartphones
+
+# Features: 
+* Music - Tracks,
+* Artist,
+* History,
+* Interviews. 
+
+# Requirements: 
+* Windows 10 
+* MAC OS Yosemite
+* Ubuntu
+
+# Equipement:
+* Laptop 
+* Computer
+* USB 
+
+# Platforms:
+* Online 
+* Chrome
+* Internet EXplorer Version 9.0
+* Edge 
+* Chromium
+* Safari
+
+# Terms and Conditions: 
+Please support the release. 
+
 # Source:
 https://html.com/
 
