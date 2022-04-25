@@ -12,7 +12,7 @@ to believe in Visual Studio just to make it even for creative in the work place 
 
 # Location:
 - Mohlakeng
-- 
+
 # Price:
 * R 34.50 for the USB
 
